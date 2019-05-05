@@ -1,2 +1,2 @@
 # hello-world
-Hello World!
+Welcome to my personal "coding diary" where the best in ideas are stored!
